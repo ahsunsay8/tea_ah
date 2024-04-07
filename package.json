@@ -1,6 +1,6 @@
 {
   "name": "tea_ah",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,12 @@
   },
   "repository": {
     "type": "git",
-      "url": "git+https://github.com/ahsunsay8/tea_ah"
+    "url": "git+https://github.com/ahsunsay8/tea_ah"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "atom-org": "^1.0.6"
+  }
 }
